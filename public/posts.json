@@ -1,0 +1,172 @@
+[
+    {
+        "id": 1,
+        "title": "My First Blog Post",
+        "content": "This is the content of my first blog post.",
+        "author": "John Doe",
+        "date": "2023-10-01",
+        "likes": 100,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Jane Smith",
+                "content": "Great post!",
+                "date": "2023-10-02"
+            },
+            {
+                "id": 2,
+                "author": "Bob Johnson",
+                "content": "Thanks for sharing.",
+                "date": "2023-10-03"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Exploring the World",
+        "content": "This is a blog post about my travel experiences.",
+        "author": "John Doe",
+        "date": "2023-10-02",
+        "likes": 150,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Alice Brown",
+                "content": "Amazing journey!",
+                "date": "2023-10-03"
+            },
+            {
+                "id": 2,
+                "author": "Charlie Davis",
+                "content": "Can't wait to read more.",
+                "date": "2023-10-04"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Tech Innovations",
+        "content": "This post discusses the latest in technology.",
+        "author": "John Doe",
+        "date": "2023-10-03",
+        "likes": 200,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Eve White",
+                "content": "Very informative!",
+                "date": "2023-10-04"
+            },
+            {
+                "id": 2,
+                "author": "Frank Green",
+                "content": "Thanks for the insights.",
+                "date": "2023-10-05"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Healthy Living",
+        "content": "Tips and tricks for a healthier lifestyle.",
+        "author": "John Doe",
+        "date": "2023-10-04",
+        "likes": 120,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Grace Black",
+                "content": "Great advice!",
+                "date": "2023-10-05"
+            },
+            {
+                "id": 2,
+                "author": "Hank White",
+                "content": "Very helpful, thanks!",
+                "date": "2023-10-06"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Cooking Tips",
+        "content": "Delicious recipes and cooking tips.",
+        "author": "John Doe",
+        "date": "2023-10-01",
+        "likes": 100,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Jane Smith",
+                "content": "Great post!",
+                "date": "2023-10-02"
+            },
+            {
+                "id": 2,
+                "author": "Bob Johnson",
+                "content": "Thanks for sharing.",
+                "date": "2023-10-03"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "My First Blog Post",
+        "content": "This is the content of my first blog post.",
+        "author": "John Doe",
+        "date": "2023-10-01",
+        "likes": 100,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Jane Smith",
+                "content": "Great post!",
+                "date": "2023-10-02"
+            },
+            {
+                "id": 2,
+                "author": "Bob Johnson",
+                "content": "Thanks for sharing.",
+                "date": "2023-10-03"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Another Blog Post",
+        "content": "This is the content of another blog post.",
+        "author": "Alice Brown",
+        "date": "2023-10-05",
+        "likes": 50,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Charlie Davis",
+                "content": "Interesting read!",
+                "date": "2023-10-06"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Yet Another Blog Post",
+        "content": "This is the content of yet another blog post.",
+        "author": "Eve White",
+        "date": "2023-10-07",
+        "likes": 75,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Frank Green",
+                "content": "Very informative.",
+                "date": "2023-10-08"
+            },
+            {
+                "id": 2,
+                "author": "Grace Black",
+                "content": "Thanks for the insights.",
+                "date": "2023-10-09"
+            }
+        ]
+    }
+]
