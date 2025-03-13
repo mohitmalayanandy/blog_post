@@ -4,16 +4,18 @@ const Posts = () => {
 
     const [posts, setPosts] = useState([]);
 
-
     useEffect(() => {
         fetch('/posts.json')
             .then(response => response.json())
             .then(data => setPosts(data))
             .catch(error => console.error('Error fetching posts:', error))
     }, [])
+
+
     return (
         <div>
             <h1 className="text-center text-3xl font-semibold m-2">Welcome To My Blog Post</h1>
+            
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
                 {posts.map((post) => (
                     <div key={post.id} className="p-6 bg-white text-black rounded-xl shadow-xl">
